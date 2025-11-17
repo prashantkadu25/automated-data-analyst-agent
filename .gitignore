@@ -1,0 +1,42 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python caches / compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables / secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+
+# Output / build artifacts
+output/
+dist/
+build/
+*.egg-info/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+*.DS_Store
+
+# Windows
+desktop.ini
+
+# Ignore sample data if you want local only (optional)
+# data/

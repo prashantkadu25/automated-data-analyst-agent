@@ -1,0 +1,10 @@
+pandas>=1.5
+numpy
+matplotlib
+seaborn
+scikit-learn
+pdfkit
+jinja2
+loguru
+python-dotenv
+pytest
